@@ -1,4 +1,6 @@
-# Proyecto de investigación sobre detección de epicentros de tsunamis
+# KdV Equation
 Semana 1 de septiembre:
 - Elementos finitos
+
+Semana 8 de septiembre:
 - Elementos finitos en KdV
